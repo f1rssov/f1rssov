@@ -76,5 +76,4 @@ I am a beginner backend developer. My path in IT began with school 21 from Sber,
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
